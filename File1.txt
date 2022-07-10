@@ -1,6 +1,6 @@
 
-change: to fix bug1
-change: by teammate for conflict in 3 way merging
+change:- to fix bug1
+change:- by teammate for conflict in 3 way merging
 
 change to fix bug1.
 change for bug2 to check 3 way merging with conflict.
