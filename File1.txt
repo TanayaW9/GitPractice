@@ -9,3 +9,5 @@ Change to fix bug1.
 Change for bug2 to check 3 way merging with conflict.
 Change for CR2 to check rebase with conflict.
 
+Change:- WI5 to check tha stash and half done work.
+
