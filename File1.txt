@@ -11,3 +11,9 @@ Change for CR2 to check rebase with conflict.
 
 Change:- WI5 to check tha stash and half done work.updated on remote master.
 Change :- by teammate CR5 on remote master for rebase with conflict
+
+Change:- WI5 to check tha stash and half done work.
+
+Change :- to check the conflict with rebase on local master
+
+
